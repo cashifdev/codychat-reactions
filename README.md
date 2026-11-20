@@ -61,7 +61,7 @@ Reactions refresh by polling. If your chat has its own socket bridge, you can ma
 ## Support
 Tested on Codychat **10.1** only. Need it on Codychat 11 or an older version? Open an issue titled **Paid install help**.
 
-Found a bug? Open an issue with your Codychat version and what you see.
+Found a bug? [Open a bug report](https://github.com/cashifdev/codychat-reactions/issues/new?template=bug_report.md) with your Codychat version and what you see. See the [changelog](CHANGELOG.md) for what's new.
 
 ⭐ If this add-on makes your chat more fun, star the repo and [follow me on GitHub](https://github.com/cashifdev) for more.
 
